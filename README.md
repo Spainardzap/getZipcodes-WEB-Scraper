@@ -1,2 +1,3 @@
 # getZipcodes-WEB-Scraper
-Gets zipCodes from states
+Gets zipCodes from states.
+
